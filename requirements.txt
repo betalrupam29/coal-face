@@ -6,6 +6,5 @@ opencv-python
 numpy
 Pillow
 click
-face-recognition-models==0.3.0
 dlib-bin==20.0.1
 tzdata
